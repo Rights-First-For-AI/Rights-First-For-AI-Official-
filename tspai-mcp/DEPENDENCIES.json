@@ -1,0 +1,250 @@
+[
+  {
+    "name": "annotated-types",
+    "version": "0.8.0",
+    "license": "MIT"
+  },
+  {
+    "name": "anyio",
+    "version": "4.16.0",
+    "license": "MIT"
+  },
+  {
+    "name": "attrs",
+    "version": "26.1.0",
+    "license": "MIT"
+  },
+  {
+    "name": "certifi",
+    "version": "2026.10.23",
+    "license": "MPL-2.0"
+  },
+  {
+    "name": "cffi",
+    "version": "2.1.1",
+    "license": "MIT-0"
+  },
+  {
+    "name": "click",
+    "version": "8.5.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "cryptography",
+    "version": "50.0.2",
+    "license": "Apache-2.0 OR BSD-3-Clause"
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "license": "MIT"
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "httpx-sse",
+    "version": "0.4.3",
+    "license": "MIT"
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "jsonschema",
+    "version": "4.26.0",
+    "license": "MIT"
+  },
+  {
+    "name": "jsonschema-specifications",
+    "version": "2025.9.1",
+    "license": "MIT"
+  },
+  {
+    "name": "mcp",
+    "version": "1.30.0",
+    "license": "MIT"
+  },
+  {
+    "name": "pycparser",
+    "version": "3.12",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "pydantic",
+    "version": "2.14.2",
+    "license": "MIT"
+  },
+  {
+    "name": "pydantic-settings",
+    "version": "2.16.2",
+    "license": "MIT"
+  },
+  {
+    "name": "pydantic_core",
+    "version": "2.50.2",
+    "license": "MIT"
+  },
+  {
+    "name": "PyJWT",
+    "version": "2.15.1",
+    "license": "MIT"
+  },
+  {
+    "name": "python-dotenv",
+    "version": "1.2.4",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python-multipart",
+    "version": "0.0.33",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "pywin32",
+    "version": "312",
+    "license": "PSF"
+  },
+  {
+    "name": "referencing",
+    "version": "0.37.0",
+    "license": "MIT"
+  },
+  {
+    "name": "rpds-py",
+    "version": "2026.9.1",
+    "license": "MIT"
+  },
+  {
+    "name": "sse-starlette",
+    "version": "3.6.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "starlette",
+    "version": "1.10.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.4",
+    "license": "MIT"
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "license": "PSF-2.0"
+  },
+  {
+    "name": "uvicorn",
+    "version": "0.54.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "license": "Shipped LICENSE: Apache-2.0/MIT transition",
+    "source": "https://github.com/modelcontextprotocol/ext-apps",
+    "name": "@modelcontextprotocol/ext-apps",
+    "version": "2.0.4",
+    "purpose": "Bundled browser initialization"
+  },
+  {
+    "license": "MIT",
+    "source": "https://github.com/evanw/esbuild",
+    "name": "esbuild",
+    "version": "0.25.12",
+    "purpose": "Build only; no end-user Node requirement"
+  },
+  {
+    "name": "@modelcontextprotocol/client",
+    "version": "2.4.0",
+    "license": "Shipped LICENSE: Apache-2.0/MIT transition",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "@modelcontextprotocol/core",
+    "version": "2.4.0",
+    "license": "Shipped LICENSE: Apache-2.0/MIT transition",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "@standard-schema/spec",
+    "version": "1.1.0",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "cross-spawn",
+    "version": "7.0.6",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "eventsource",
+    "version": "3.0.7",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "eventsource-parser",
+    "version": "3.1.1",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "isexe",
+    "version": "2.0.0",
+    "license": "ISC",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "jose",
+    "version": "6.2.15",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "path-key",
+    "version": "3.1.1",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "pkce-challenge",
+    "version": "5.0.1",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "shebang-command",
+    "version": "2.0.0",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "shebang-regex",
+    "version": "3.0.0",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "which",
+    "version": "2.0.2",
+    "license": "ISC",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  },
+  {
+    "name": "zod",
+    "version": "4.6.7",
+    "license": "MIT",
+    "purpose": "Browser SDK dependency; see shipped notices"
+  }
+]

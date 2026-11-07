@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.sqlite3*
+dist/
+config.local.json
+approved-for-transfer/
+plus1/
+first_start_verified
+node_modules/
+.verify/
