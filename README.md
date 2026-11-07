@@ -10,7 +10,9 @@ Rights First For AI の公式GitHubリポジトリです。
 TSPの理念を具体化するための開発プロジェクトです。現在は非公開で開発を進めており、公開時期は未定です。
 
 **TSPAI MCP**  
-AIとWindows PCの連携を通じて、TSPの理念を具体化する独立開発の技術プロジェクトです。GitHubでのOPEN.versionのソース公開を準備しています。**現時点では公開用のソース・タグ・ZIP配布は未開始です。** OpenAIの公式製品や公認製品ではありません。
+AIとWindows PCの連携を通じて、TSPの理念を具体化する独立開発の技術プロジェクトです。OPEN.versionのWindows向け先行公開版（0.3.0-pre.4）を公開しています。 OpenAIの公式製品や公認製品ではありません。
+
+[ソース・導入手順](tspai-mcp/README.md) · [日本語](tspai-mcp/README.ja.md) · [配布ZIP・リリース](https://github.com/Rights-First-For-AI/Rights-First-For-AI-Official-/releases/tag/v0.3.0-pre.4)
 
 **Official MCP introduction (English):** https://www.rightsfirst-ai.jp/tspai-mcp-en.html  
 ※ 英語ページは公開済みです。日本語版はページ上部の「日本語」から閲覧できます。日本語版HTMLはGitHubに重複掲載しません。

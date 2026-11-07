@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tspai-mcp": {
+      "command": "C:/TSPAI/tspai-mcp/.venv/Scripts/python.exe",
+      "args": [
+        "-I",
+        "-u",
+        "C:/TSPAI/tspai-mcp/server.py",
+        "--workspace",
+        "C:/TSPAI/workspace"
+      ]
+    }
+  }
+}
