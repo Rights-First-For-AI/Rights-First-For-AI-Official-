@@ -12,8 +12,8 @@ TSPの理念を具体化するための開発プロジェクトです。現在�
 **TSPAI MCP**  
 AIとPCの連携、接続経路の二重化などを通じて、TSPの理念を具体化する技術プロジェクトです。将来的な公開を予定しています。
 
-**Official MCP introduction (English, publication pending):** `https://www.rightsfirst-ai.jp/tspai-mcp-en.html`  
-※ 英語ページは現在公開準備中です。公開後は同ページ上部の「日本語」から既存の日本語公式サイトへ移動できます。日本語版HTMLをGitHubに重複掲載する予定はありません。
+**Official MCP introduction (English):** https://www.rightsfirst-ai.jp/tspai-mcp-en.html  
+※ 英語ページは公開済みです。日本語版はページ上部の「日本語」から閲覧できます。日本語版HTMLはGitHubに重複掲載しません。
 
 ※ファイル転送機能はChatGPT（GPT）側のファイル受付条件に依存します。GPT側が対応していないファイル形式は本機能では送信できません。大容量ファイルや形式によってエラーとなる場合は、別途の接続経路が必要です。
 
