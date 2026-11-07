@@ -6,10 +6,10 @@ In the trusted source directory, open PowerShell:
 
 ```powershell
 py -3.11 -m venv .verify
-.\.verify\Scripts\python.exe -m pip install --require-hashes --only-binary=:all: -r requirements-windows.lock.txt
-$key = (Get-Content .elease-public-key.hex -Raw).Trim()
+./.verify/Scripts/python.exe -m pip install --require-hashes --only-binary=:all: -r requirements-windows.lock.txt
+$key = (Get-Content ./release-public-key.hex -Raw).Trim()
 $zip = Read-Host 'Path to downloaded ZIP'
-.\.verify\Scripts\python.exe .elease_integrity.py verify $zip $key
+./.verify/Scripts/python.exe ./release_integrity.py verify $zip $key
 if ($LASTEXITCODE -ne 0) { throw 'ZIP verification failed. Do not extract it.' }
 ```
 
