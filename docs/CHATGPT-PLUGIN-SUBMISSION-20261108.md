@@ -4,9 +4,39 @@ Date: 2026-11-08 (JST)
 Publisher/project: Rights First For AI / TSPAI MCP OPEN.version  
 Inspected source: [c0f931b77be4416f52a3fde364bdac19088525c1](https://github.com/Rights-First-For-AI/Rights-First-For-AI-Official-/tree/c0f931b77be4416f52a3fde364bdac19088525c1/tspai-mcp)
 
-## Status
+## Submission on hold — payment-method requirement (2026-11-08 JST)
 
-**Pre-submission assessment. No submission, acceptance, rejection, or OpenAI endorsement is recorded.**
+**Current status: submission process on hold at developer verification; no plugin review submission has been completed.**
+
+Rights First For AI attempted to proceed with ChatGPT plugin registration. The publisher reported that the portal required a verified developer identity before creating or uploading a plugin. During organization verification, the publisher received this message:
+
+> Payment method required  
+> To verify your organization, you’ll need to add a valid payment method and set it as your default payment method.
+
+This is a publisher-provided transcription of the displayed message. It was not independently observed in an authenticated dashboard during this documentation update.
+
+Rights First For AI has placed the application process on hold because registration of a payment method was required before proceeding, and a no-cost verification/submission path has not been confirmed. The publisher will consider proceeding only if the process can be completed free of charge. Registration in OpenAI's directory is optional for this project; GitHub distribution continues independently.
+
+### What was checked
+
+- [OpenAI's submission guide](https://developers.openai.com/plugins/deploy/submission) requires a verified individual or business publishing identity.
+- [App Developer Terms, section 7.8](https://openai.com/policies/developer-apps-terms/) (page dated September 28, 2026, checked November 8, 2026 JST) states that minor charges may arise in verification, compliance, or related administrative processes, and reserves the right to introduce future submission/publication fees with advance notice.
+- The examined materials do not establish why this particular verification flow required a payment method, whether this publisher would actually be charged, or any applicable amount. **Requiring a payment method is not evidence that a plugin submission fee has been charged or that a paid subscription must be purchased.**
+
+The reported prompt occurred in the developer/organization-verification stage. No submission case ID, acceptance, rejection, actual charge, or charge amount has been confirmed in this record. Other previously recorded preparation and eligibility items remain unresolved; this hold is the publisher's decision, not an OpenAI review rejection.
+
+### 日本語での公開記録
+
+**当社はChatGPTのプラグイン登録を進めようとしましたが、申請に必要な開発者認証の段階で、有効な支払い方法の登録と既定の支払い方法への設定を求められたため、申請手続きを保留しました。**
+
+支払い方法が求められた理由、この手続きで当社に実際の請求が発生するか、請求額はいくらかは確認できていません。公式規約には認証等に少額の費用が生じる可能性の記載がありますが、これをもって「プラグイン申請が有料」「当社に請求が発生した」とは断定しません。
+
+当社は無料で完了できる条件を確認できた場合に申請を検討します。OpenAIへの登録は任意であり、GitHubでの公開・配布は継続します。現状は審査提出前の保留で、審査不承認を受けたという意味ではありません。
+
+
+## Initial assessment status
+
+**The following initial assessment and preparation entries are retained as history. No review submission, acceptance, rejection, or OpenAI endorsement is recorded.**
 
 The publisher has authorized checking eligibility, proceeding with submission if applicable requirements are satisfied, and publishing a factual record of the process and outcome. GitHub distribution is already available and continues independently of any directory decision.
 
@@ -49,7 +79,7 @@ The existing local implementation is therefore not established as ready for a st
 | Required attestations | The authorized publisher must complete applicable current legal/policy attestations. No attestations were made during this assessment. |
 | Submission outcome | Not submitted. No case ID, approval, or rejection exists in this record. |
 
-## Next decision
+## Initial next decision (superseded by the hold above)
 
 Confirm whether the publisher can use the local-MCP submission path. If eligible, prepare the submission around the existing implementation. If not, document that access restriction accurately and decide whether to request eligibility; do not describe an unsubmitted package as rejected.
 
