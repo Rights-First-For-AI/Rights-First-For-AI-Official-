@@ -1,5 +1,7 @@
 # Rights First For AI
 
+<img src="tspai-mcp/assets/TSPAIMCP_GitHub_Profile_500.png" alt="Official TSPAI MCP icon" width="160">
+
 Rights First For AI の公式GitHubリポジトリです。
 
 当社は独自の理念「Triple Star Protocol（TSP）」に基づき、AIの適切な活用、依存の低減、人間の主体性と責任能力の維持を重視しています。
