@@ -21,6 +21,14 @@ AIとWindows PCの連携を通じて、TSPの理念を具体化する独立開�
 
 ※ファイル転送機能はChatGPT（GPT）側のファイル受付条件に依存します。GPT側が対応していないファイル形式は本機能では送信できません。大容量ファイルや形式によってエラーとなる場合は、別途の接続経路が必要です。
 
+## ChatGPT plugin registration — on hold / 登録申請の保留
+
+**2026-11-08 (JST):** Rights First For AI attempted to proceed with ChatGPT plugin registration. At the developer-verification stage, the portal required a valid payment method to be registered and set as default. We placed the application process on hold because a no-cost path has not been confirmed. No plugin review decision or actual fee amount has been confirmed. GitHub distribution continues independently.
+
+**当社はChatGPTのプラグイン登録を進めようとしましたが、開発者認証の段階で支払い方法の登録と既定への設定を求められたため、申請手続きを保留しました。** 無料で完了できる条件は未確認です。実際の請求や申請料金が確定したという意味ではなく、審査不承認でもありません。GitHubでの公開・配布は継続します。
+
+[確認した公式資料と詳しい経緯 / Sources and detailed record](docs/CHATGPT-PLUGIN-SUBMISSION-20261108.md)
+
 ## Official Website
 
 https://rightsfirst-ai.jp/
