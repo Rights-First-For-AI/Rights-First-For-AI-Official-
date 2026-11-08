@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "tspai-local": {
+      "type": "stdio",
+      "command": "powershell.exe",
+      "args": [
+        "-NoLogo",
+        "-NoProfile",
+        "-NonInteractive",
+        "-File",
+        "${PLUGIN_ROOT}/Launch-Plugin.ps1"
+      ],
+      "cwd": "${PLUGIN_ROOT}"
+    }
+  }
+}
