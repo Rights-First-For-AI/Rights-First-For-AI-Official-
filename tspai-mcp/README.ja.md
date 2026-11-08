@@ -1,5 +1,7 @@
 # TSPAI MCP OPEN.version
 
+<img src="assets/TSPAIMCP_GitHub_Profile_500.png" alt="TSPAI MCP 公式アイコン" width="160">
+
 [English](README.md) · 日本語
 
 TSPAI MCP OPEN.versionは、Windows PCの指定フォルダーをMCPクライアントから操作するためのソフトウェアです。Rights First For AIが独立開発しており、OpenAI公式製品ではありません。初回はWindows Helloで本人が承認し、一覧表示と読み取りだけを許可します。追加の権限は次回の起動時にWindows上で個別に選びます。
