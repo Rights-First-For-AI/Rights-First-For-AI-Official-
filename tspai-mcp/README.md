@@ -1,5 +1,7 @@
 # TSPAI MCP OPEN.version
 
+<img src="assets/TSPAIMCP_GitHub_Profile_500.png" alt="Official TSPAI MCP icon" width="160">
+
 [日本語](README.ja.md)
 
 ## Our Vision — Beyond TSPAI MCP
