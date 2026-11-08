@@ -71,3 +71,19 @@ GitHubでの公開は完了しており、ChatGPTの公開ディレクトリへ�
 - [Plugin guidelines](https://developers.openai.com/plugins/plugin-guidelines)
 
 Public records must exclude credentials, private PC content, and reviewer login information. Future entries must distinguish preparation, upload, submission, review decision, and publication.
+
+## Package preparation update — 2026-11-08 JST
+
+The tables above preserve the initial assessment of source commit c0f931b77be4416f52a3fde364bdac19088525c1. A separate plugin preparation package has now been built from that runtime:
+
+- Plugin/package identity: `tspai` / `0.1.0`; proposed directory display name: TSPAI.
+- Archive: `TSPAI-ChatGPT-Plugin-0.1.0-DRAFT.zip` (16,659,338 bytes).
+- SHA-256: `030fa2d7ea55e7278673c5d9cbd2afb777ce2d414a4d7a93027a3aee9d267672`.
+- Portable manifests, Windows setup/launch scripts, an annotation adapter, support page, draft listing, five positive cases and three negative cases are included.
+- All 30 locked Windows dependency wheels are bundled; Python 3.11 x64 remains a prerequisite.
+- Seven core tools and their annotations were checked with MCP SDK 1.30.0 in a Linux process. Manifest schema checks, offline wheel/hash checks, original-source hash preservation, fixture checks and ZIP inspection passed.
+- Clean Windows desktop installation, Windows Hello, live plugin review cases, recorded demonstration, confirmed publishing identity/countries/commerce declarations, local-MCP eligibility and legal attestations remain incomplete.
+
+Source: [plugin manifest](../tspai-mcp/plugin.json), [MCP manifest](../tspai-mcp/mcp.json), [setup instructions](../tspai-mcp/PLUGIN-README.md), [remaining requirements](../tspai-mcp/SUBMISSION-GAPS.md), [validation scope](../tspai-mcp/PLUGIN-VALIDATION.md), [reproducible build script](../scripts/build_tspai_plugin.py).
+
+**Outcome: preparation ZIP created; not uploaded, installed, submitted, approved or rejected.** No new hosted relay or additional hosting-provider dependency was introduced.
